@@ -41,7 +41,7 @@ The system integrates:
 
 ### 3. Web Application Interface
 
-* Upload plant images بسهولة
+* Upload plant images 
 * View predictions instantly
 * Compare original vs heatmap
 
